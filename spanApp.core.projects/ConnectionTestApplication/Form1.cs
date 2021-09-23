@@ -1,4 +1,5 @@
 ﻿using ConnectionTestApplication.BusinessEntities;
+using ConnectionTestApplication.Encryption;
 using MongoDB.Bson;
 using MongoDB.Driver;
 using System;
@@ -29,7 +30,7 @@ namespace ConnectionTestApplication
             string password = txtPassword.Text;
 
             UserDetails userData = new UserDetails();
-            userData.Password = password;
+            userData.Password = EncryptionService.Encrypt("sblw-3hn8-sqoy19", password);
             userData.UserName = userName;
 
             try {
@@ -56,10 +57,10 @@ namespace ConnectionTestApplication
                 users= database.GetCollection<UserDetails>("UserDetails").Find(new BsonDocument()).ToList();
                 if (users.Count > 0) {
                     UserDetails userData = new UserDetails();
-                    userData = users.Where(x => x.UserName == txtUserName.Text && x.Password == txtPassword.Text).FirstOrDefault();
+                    userData = users.Where(x => x.UserName == txtUserName.Text).FirstOrDefault();
                     if (userData != null)
                     {
-                        lblStatus.Text = "User found.";
+                        lblStatus.Text = "User found.UserName :: " + userData.UserName + " Password:: " + EncryptionService.Decrypt("sblw-3hn8-sqoy19", userData.Password) ;
                     }
                     else {
                         lblStatus.Text = "User not found.";
