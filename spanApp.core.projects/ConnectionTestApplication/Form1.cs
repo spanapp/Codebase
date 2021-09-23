@@ -2,6 +2,7 @@
 using ConnectionTestApplication.Encryption;
 using MongoDB.Bson;
 using MongoDB.Driver;
+using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -71,6 +72,24 @@ namespace ConnectionTestApplication
             catch (Exception ex)
             {
                 lblStatus.Text = "exception occurred.::" + ex.Message;
+            }
+        }
+
+        private void btnConnectMySQL_Click(object sender, EventArgs e)
+        {
+            string connetionString = null;
+            MySqlConnection cnn;
+            connetionString = "server=localhost;database=st_account_db;uid=root;password=D@U$8R";
+            cnn = new MySqlConnection(connetionString);
+            try
+            {
+                cnn.Open();
+                MessageBox.Show("Connection Open ! ");
+                cnn.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Can not open connection ! ");
             }
         }
     }

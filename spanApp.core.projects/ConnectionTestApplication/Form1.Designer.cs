@@ -35,6 +35,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.lblStatus = new System.Windows.Forms.Label();
             this.btnLogin = new System.Windows.Forms.Button();
+            this.btnConnectMySQL = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCreateUser
@@ -101,11 +102,22 @@
             this.btnLogin.UseVisualStyleBackColor = true;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
+            // btnConnectMySQL
+            // 
+            this.btnConnectMySQL.Location = new System.Drawing.Point(670, 147);
+            this.btnConnectMySQL.Name = "btnConnectMySQL";
+            this.btnConnectMySQL.Size = new System.Drawing.Size(75, 23);
+            this.btnConnectMySQL.TabIndex = 8;
+            this.btnConnectMySQL.Text = "Connect";
+            this.btnConnectMySQL.UseVisualStyleBackColor = true;
+            this.btnConnectMySQL.Click += new System.EventHandler(this.btnConnectMySQL_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnConnectMySQL);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.lblStatus);
             this.Controls.Add(this.label1);
@@ -129,6 +141,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblStatus;
         private System.Windows.Forms.Button btnLogin;
+        private System.Windows.Forms.Button btnConnectMySQL;
     }
 }
 

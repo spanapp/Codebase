@@ -35,3 +35,5 @@ D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\Connec
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.exe
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.pdb
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.Form1.resources
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MySql.Data.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MySql.Data.xml
