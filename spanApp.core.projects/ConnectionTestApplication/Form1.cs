@@ -31,7 +31,7 @@ namespace ConnectionTestApplication
             string password = txtPassword.Text;
 
             UserDetails userData = new UserDetails();
-            userData.Password = EncryptionService.Encrypt("sblw-3hn8-sqoy19", password);
+            userData.Password = EncryptionService.Encrypt("rohi-sank-umes21", password);
             userData.UserName = userName;
 
             try {
@@ -61,7 +61,7 @@ namespace ConnectionTestApplication
                     userData = users.Where(x => x.UserName == txtUserName.Text).FirstOrDefault();
                     if (userData != null)
                     {
-                        lblStatus.Text = "User found.UserName :: " + userData.UserName + " Password:: " + EncryptionService.Decrypt("sblw-3hn8-sqoy19", userData.Password) ;
+                        lblStatus.Text = "User found.UserName :: " + userData.UserName + " Password:: " + EncryptionService.Decrypt("rohi-sank-umes21", userData.Password) ;
                     }
                     else {
                         lblStatus.Text = "User not found.";

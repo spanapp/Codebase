@@ -1,0 +1,11 @@
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\bin\Debug\spanApp.core.DAL.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\bin\Debug\spanApp.core.DAL.pdb
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\bin\Debug\MySql.Data.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\bin\Debug\spanApp.core.foundation.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\bin\Debug\spanApp.core.foundation.pdb
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\bin\Debug\MySql.Data.xml
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\obj\Debug\spanApp.core.DAL.csprojAssemblyReference.cache
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\obj\Debug\spanApp.core.DAL.csproj.CoreCompileInputs.cache
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\obj\Debug\spanApp.core.DAL.csproj.CopyComplete
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\obj\Debug\spanApp.core.DAL.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\DAL\spanApp.core.DAL\obj\Debug\spanApp.core.DAL.pdb

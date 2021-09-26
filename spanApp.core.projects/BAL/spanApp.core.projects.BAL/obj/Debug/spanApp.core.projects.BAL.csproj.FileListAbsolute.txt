@@ -1,0 +1,17 @@
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\spanApp.core.projects.BAL.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\spanApp.core.projects.BAL.pdb
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\spanApp.core.DAL.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\spanApp.core.foundation.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\MySql.Data.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\spanApp.core.DAL.pdb
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\spanApp.core.foundation.pdb
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\MySql.Data.xml
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\obj\Debug\spanApp.core.projects.BAL.csprojAssemblyReference.cache
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\obj\Debug\spanApp.core.projects.BAL.csproj.CoreCompileInputs.cache
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\obj\Debug\spanApp.core.projects.BAL.csproj.CopyComplete
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\obj\Debug\spanApp.core.projects.BAL.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\obj\Debug\spanApp.core.projects.BAL.pdb
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\spanApp.core.common.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\spanApp.core.common.pdb
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\BAL\spanApp.core.projects.BAL\bin\Debug\Newtonsoft.Json.xml

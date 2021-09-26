@@ -1,0 +1,6 @@
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\spanApp.core.common\bin\Debug\spanApp.core.common.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\spanApp.core.common\bin\Debug\spanApp.core.common.pdb
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\spanApp.core.common\obj\Debug\spanApp.core.common.csprojAssemblyReference.cache
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\spanApp.core.common\obj\Debug\spanApp.core.common.csproj.CoreCompileInputs.cache
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\spanApp.core.common\obj\Debug\spanApp.core.common.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\spanApp.core.common\obj\Debug\spanApp.core.common.pdb

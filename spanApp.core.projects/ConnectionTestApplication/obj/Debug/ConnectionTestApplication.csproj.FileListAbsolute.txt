@@ -10,6 +10,7 @@ D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\Connec
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MongoDB.Driver.Core.dll
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MongoDB.Driver.dll
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MySql.Data.dll
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\SharpCompress.dll
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\System.Buffers.dll
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\System.Net.Http.dll
@@ -24,16 +25,15 @@ D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\Connec
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MongoDB.Bson.xml
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MongoDB.Driver.xml
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MongoDB.Driver.Core.xml
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MySql.Data.xml
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\System.Buffers.xml
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\System.ValueTuple.xml
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.csprojAssemblyReference.cache
+D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.Form1.resources
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.Properties.Resources.resources
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.csproj.GenerateResource.cache
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.csproj.CoreCompileInputs.cache
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.csproj.CopyComplete
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.exe
 D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.pdb
-D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\obj\Debug\ConnectionTestApplication.Form1.resources
-D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MySql.Data.dll
-D:\Sanket's Data\Projects\SpanApp\Codebase\Codebase\spanApp.core.projects\ConnectionTestApplication\bin\Debug\MySql.Data.xml
